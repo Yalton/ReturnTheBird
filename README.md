@@ -1,11 +1,5 @@
 # Return the Bird
 
-![Berd](images/icon_128.png)
-
-I miss the bird; this extension replaces the current Twitter logo and favicon with the old versions.
-
-# Return the Bird
-
 <a name="readme-top"></a>
 
 [![Contributors][contributors-shield]][contributors-url]
