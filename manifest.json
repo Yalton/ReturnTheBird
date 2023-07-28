@@ -13,13 +13,13 @@
         "https://twitter.com/*"
     ],
     "background": {
-        "scripts": ["background.js"],
-        "persistent": true
+        "service_worker": "background.js"
     },
     "web_accessible_resources": [
-        "images/*.png",
-        "images/*.ico",
-        "images/*.jpg"
+        {
+          "resources": ["images/*.png", "images/*.ico", "images/*.jpg"],
+          "matches": ["https://twitter.com/*"]
+        }
     ],
     "content_scripts": [
       {
