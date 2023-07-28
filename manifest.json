@@ -1,5 +1,5 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "Return the bird",
     "version": "1.0",
     "description": "I miss the bird; this extension replaces the current Twitter logo and favicon with the old versions.",
