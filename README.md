@@ -1,12 +1,11 @@
-# Return the Bird 
+# Return the Bird
 
 ![Berd](images/icon_128.png)
 
 I miss the bird; this extension replaces the current Twitter logo and favicon with the old versions.
 
+# Return the Bird
 
-
-# Return the Bird 
 <a name="readme-top"></a>
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -51,115 +50,19 @@ I miss the bird; this extension replaces the current Twitter logo and favicon wi
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
 ## About The Project
 
-ReturnTheBird is a versatile voice assistant designed to run on a Raspberry Pi. It offers a wide range of features and integrations, making it a powerful tool for everyday use. 
+I miss the bird; this extension replaces the current Twitter logo and favicon with the old versions.
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-### Built With
-
-* [![Python][python-badge]][Python-url]
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-Clone the repository to your local system 
-
-### Prerequisites
-
-You will require some local system packages to make the script function properly 
-* apt
-  ```sh
-  apt install portaudio19-dev espeak mpg123 libasound2-dev flac at
-  ```
-
-<!-- ### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/Yalton/ReturnTheBird.git
-   ```
-3. Install NPM packages
-   ```sh
-   pip install -r requirements.txt
-   ```
-4. Enter your API keys in config.ini
-   ```
-   [API_KEYS]
-    OpenWeatherMap = API_KEY
-    OpenAI = API_KEY
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
- -->
-
-
-<!-- USAGE EXAMPLES -->
-<!-- ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
- -->
-
-
-<!-- ROADMAP -->
-<!-- ## Roadmap
-
-- [ ] Get news updates by integrating with a news API, such as NewsAPI, to fetch and read the latest headlines or news articles based on your interests or preferred sources.
-- [ ] Connect to your calendar (e.g., Google Calendar) to read, create, or modify events.
-- [ ] Integrate with a music or podcast service to play tracks based on your preferences or requests.
-- [ ] Connect to an email service (e.g., Gmail) or messaging platform to send emails or messages on your behalf.
-- [ ] Control smart home devices by integrating with their respective APIs, allowing you to control things like lights, thermostats, or door locks.
-- [ ] Access currency conversion rates or stock market updates by integrating with a financial API.
-- [ ] Translate text between languages using a translation API. -->
-
-
-<!-- See the [open issues](https://github.com/Yalton/ReturnTheBird/issues) for a full list of proposed features (and known issues). -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-<!-- ## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+![Berd](images/twitter_sidenav.png)
 
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
@@ -167,6 +70,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
+
 ## Contact
 
 Dalton Bailey - [@yalt7117](https://twitter.com/yalt7117) - drbailey117@gmail.com
@@ -175,21 +79,9 @@ Project Link: [https://github.com/Yalton/ReturnTheBird](https://github.com/Yalto
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* [HomeAssistantDocs](https://developers.home-assistant.io/docs/api/rest/)
-<!-- * []()
-* []() -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [python-badge]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [python-url]: https://www.python.org
 [contributors-shield]: https://img.shields.io/github/contributors/Yalton/ReturnTheBird.svg?style=for-the-badge
@@ -220,4 +112,4 @@ Project Link: [https://github.com/Yalton/ReturnTheBird](https://github.com/Yalto
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[JQuery-url]: https://jquery.com
