@@ -1,0 +1,28 @@
+{
+    "manifest_version": 2,
+    "name": "Logo Changer",
+    "version": "1.0",
+    "permissions": [
+        "activeTab",
+        "webRequestBlocking",
+        "webRequest",
+        "declarativeContent",
+        "<all_urls>"
+    ],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": true
+    },
+    "web_accessible_resources": [
+        "images/*.png",
+        "images/*.ico",
+        "images/*.jpg"
+    ],
+    "content_scripts": [
+      {
+        "matches": ["https://twitter.com/*"],
+        "js": ["content.js"],
+        "run_at": "document_start"
+      }
+    ]
+}
