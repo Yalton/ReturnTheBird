@@ -8,9 +8,7 @@
         "128": "images/icon_128.png" 
     },
     "permissions": [
-        "activeTab",
-        "declarativeContent",
-        "https://twitter.com/*"
+        "declarativeContent"
     ],
     "background": {
         "service_worker": "background.js"
